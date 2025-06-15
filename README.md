@@ -60,7 +60,9 @@ Antes de empezar, asegúrate de tener lo siguiente:
 *   🔄 **Retroceso de errores:** Oculta cualquier error para mantener la ejecución discreta.
 *   🛠 **Llamadas Win32 integradas:** Usa funciones nativas para un acceso más profundo al sistema.
 
-*   # Estare dandole actualizaciones en mis tiempos libre 😄
+*   # Contribucion
+* Si quieres contribuir, ¡adelante! Pero no me vengas con tonterías de "código ético" o "buenas prácticas". Aquí solo nos importa que funcione.😜
+  
 
 ## ⚠️ Descargo de responsabilidad
 
