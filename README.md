@@ -70,4 +70,4 @@ Este código se proporciona únicamente con fines educativos. No me hago respons
 
 ---
 
-Hecho con 😈 por [ZeroEthical](https://github.com/ZeroEthical)
+Hecho con 😈 por [ZeroEthical](https://t.me/ZeroEthical)
