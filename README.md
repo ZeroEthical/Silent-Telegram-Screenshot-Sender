@@ -1,11 +1,11 @@
-# 📸 Telegram Silent Screenshot Sender 👩‍💻
+# 📸 Telegram Silhttps://github.com/ZeroEthical/Silent-Telegram-Screenshot-Senderent Screenshot Sender 👩‍💻
 
 [![Stars](https://img.shields.io/github/stars/ZeroEthical/Silent-Telegram-Screenshot-Sender?style=social)](https://github.com/ZeroEthical/Silent-Telegram-Screenshot-Sender/stargazers)
 [![Forks](https://img.shields.io/github/forks/ZeroEthical/Silent-Telegram-Screenshot-Sender?style=social)](https://github.com/ZeroEthical/Silent-Telegram-Screenshot-Sender/network/members)
 [![Issues](https://img.shields.io/github/issues/ZeroEthical/Silent-Telegram-Screenshot-Sender)](https://github.com/ZeroEthical/Silent-Telegram-Screenshot-Sender/issues)
 [![License](https://img.shields.io/github/license/ZeroEthical/Silent-Telegram-Screenshot-Sender)](LICENSE)
 
-Envía capturas de pantalla de forma silenciosa a través de Telegram. ¡Ideal para... propósitos educativos! 😏
+Este programa en C# toma una captura de pantalla del escritorio y la envía silenciosamente a través de un bot de Telegram. ¡Perfecto para... bueno, para lo que sea! 😈
 
 ## 🧾 Prerrequisitos
 
