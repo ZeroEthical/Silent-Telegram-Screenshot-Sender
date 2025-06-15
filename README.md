@@ -1,4 +1,4 @@
-# 📸 Telegram Silhttps://github.com/ZeroEthical/Silent-Telegram-Screenshot-Senderent Screenshot Sender 👩‍💻
+# 📸 Telegram Silent Screenshot Sender 👩‍💻
 
 [![Stars](https://img.shields.io/github/stars/ZeroEthical/Silent-Telegram-Screenshot-Sender?style=social)](https://github.com/ZeroEthical/Silent-Telegram-Screenshot-Sender/stargazers)
 [![Forks](https://img.shields.io/github/forks/ZeroEthical/Silent-Telegram-Screenshot-Sender?style=social)](https://github.com/ZeroEthical/Silent-Telegram-Screenshot-Sender/network/members)
