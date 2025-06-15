@@ -60,6 +60,8 @@ Antes de empezar, asegúrate de tener lo siguiente:
 *   🔄 **Retroceso de errores:** Oculta cualquier error para mantener la ejecución discreta.
 *   🛠 **Llamadas Win32 integradas:** Usa funciones nativas para un acceso más profundo al sistema.
 
+*   # Estare dandole actualizaciones en mis tiempos libre 😄
+
 ## ⚠️ Descargo de responsabilidad
 
 Este código se proporciona únicamente con fines educativos. No me hago responsable de su uso indebido. ¡Utilízalo con responsabilidad! 😉
