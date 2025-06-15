@@ -1,9 +1,9 @@
 # 📸 Telegram Silent Screenshot Sender 👩‍💻
 
 [![Stars](https://img.shields.io/github/stars/github.com/ZeroEthical/Silent-Telegram-Screenshot-Sender?style=social)](https://github.com/ZeroEthical/Silent-Telegram-Screenshot-Sender/stargazers)
-[![Forks](https://img.shields.io/github/forks/github.com/ZeroEthical/Silent-Telegram-Screenshot-Sender?style=social)](https://github.com/github.com/ZeroEthical/Silent-Telegram-Screenshot-Sender/network/members)
-[![Issues](https://img.shields.io/github/issues/github.com/ZeroEthical/Silent-Telegram-Screenshot-Sender)](https://github.com/ZeroEthical/Silent-Telegram-Screenshot-Sender/issues)
-[![License](https://img.shields.io/github/license/github.com/ZeroEthical/Silent-Telegram-Screenshot-Sender)](LICENSE)
+[![Forks](https://img.shields.io/github/forks/github.com/ZeroEthical/Silent-Telegram-Screenshot-Sender?style=social)](https://github.com/ZeroEthical/Silent-Telegram-Screenshot-Sender/network/members)
+[![Issues](https://img.shields.io/github/issues/ZeroEthical/Silent-Telegram-Screenshot-Sender)](https://github.com/ZeroEthical/Silent-Telegram-Screenshot-Sender/issues)
+[![License](https://img.shields.io/github/license/ZeroEthical/Silent-Telegram-Screenshot-Sender)](LICENSE)
 
 Envía capturas de pantalla de forma silenciosa a través de Telegram. ¡Ideal para... propósitos educativos! 😏
 
